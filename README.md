@@ -1,4 +1,5 @@
 # Style Guides
-Guia de estilos de programação:
 
-*[Java (Português do Brasil)](JAVA_PT-BR.md)
+Style guides for my projects on following programming languages:
+
+* [Java (For brazilian portuguese projects)](JAVA_PT-BR.md)
