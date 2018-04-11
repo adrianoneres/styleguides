@@ -1,4 +1,4 @@
-# Guia de estilo Java (Português do Brasil)
+# Java (Português do Brasil)
 
 O guia foca no estilo de programação considerado ideal para manter uma padronização e facilitar a manutenção do software. Para evitar redundâncias não está coberto neste guia as definições já consolidades em convenções da linguagem, como as de nomenclatura de variáveis, métodos, classes, entre outros, que já devem ser seguidas por padrão e apenas complementadas pelas seguintes.
 
