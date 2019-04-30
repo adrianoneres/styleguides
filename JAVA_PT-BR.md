@@ -2,7 +2,7 @@
 
 O guia foca no estilo de programação considerado ideal para manter uma padronização e facilitar a manutenção do software. Para evitar redundâncias não está coberto neste guia as definições já consolidades em convenções da linguagem, como as de nomenclatura de variáveis, métodos, classes, entre outros, que já devem ser seguidas por padrão e apenas complementadas pelas seguintes.
 
-Muitas recomendações deste guia baseiam-se no [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html#s4.1.2-blocks-k-r-style), com adequações necessárias aos projetos em que atuo.
+Muitas recomendações deste guia baseiam-se no [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html), com adequações necessárias aos projetos em que atuo.
 
 ## 1 Metadados
 
